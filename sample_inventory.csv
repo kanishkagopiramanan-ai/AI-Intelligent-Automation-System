@@ -1,0 +1,21 @@
+SKU,Product_Name,Category,Stock_Quantity,Unit_Price,Reorder_Level,Supplier,Warehouse_Bin
+ELEC-LAP-001,Dell XPS 15 Laptop,Electronics,18,1450.00,10,Dell Direct,A-101
+ELEC-LAP-002,MacBook Air M2,Electronics,8,1199.00,15,Apple Logistics,A-102
+ELEC-MON-003,LG 27-inch 4K Monitor,Electronics,42,379.50,20,LG Electronics,A-105
+ELEC-MOU-004,Logitech MX Master 3S Mouse,Electronics,85,99.99,25,Logitech Global,A-108
+ELEC-KEY-005,Keychron K2 Mechanical Keyboard,Electronics,4,79.00,15,Keychron Inc,A-110
+OFFC-DSK-006,Ergonomic Standing Desk,Furniture,12,450.00,8,FlexiSpot,B-201
+OFFC-CHR-007,Steelcase Ergonomic Office Chair,Furniture,26,620.00,10,Steelcase Corp,B-205
+OFFC-LMP-008,BenQ ScreenBar Monitor Light,Accessories,65,109.00,20,BenQ Corp,B-210
+OFFC-CAB-009,3-Drawer Mobile File Cabinet,Furniture,0,140.00,5,OfficeWorld,B-215
+NETW-ROU-010,ASUS AX6000 Wi-Fi 6 Router,Networking,34,229.00,12,ASUS Systems,C-301
+NETW-SWT-011,TP-Link 16-Port Gigabit Switch,Networking,6,89.50,10,TP-Link Supplies,C-304
+STOR-SSD-012,Samsung 990 Pro 2TB NVMe SSD,Storage,110,179.99,30,Samsung Semi,C-308
+STOR-HDD-013,Seagate IronWolf 8TB NAS HDD,Storage,3,195.00,8,Seagate Tech,C-310
+ACC-USB-014,Anker 7-in-1 USB-C Hub,Accessories,150,45.00,40,Anker Direct,D-401
+ACC-CAB-015,Thunderbolt 4 Cable (2m),Accessories,95,34.50,30,CableMatters,D-403
+AUD-HDP-016,Sony WH-1000XM5 Headphones,Audio,22,399.00,15,Sony Corp,D-405
+AUD-MIC-017,Shure MV7 USB Microphone,Audio,14,249.00,10,Shure Audio,D-408
+AUD-SPK-018,Audioengine A2+ Desktop Speakers,Audio,5,269.00,8,Audioengine LLC,D-410
+POW-UPS-019,APC 1500VA Backup UPS,Power,7,189.00,10,Schneider Electric,E-501
+POW-STR-020,Belkin 8-Outlet Surge Protector,Power,0,29.99,20,Belkin Ltd,E-504

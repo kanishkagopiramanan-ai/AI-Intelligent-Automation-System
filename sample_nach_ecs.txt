@@ -1,0 +1,15 @@
+NATIONAL AUTOMATED CLEARING HOUSE (NACH) / ECS MANDATE FORM
+UMRN: NACH0000000004928192
+
+To Bank: HDFC Bank Ltd
+Account Number: 50100294829104
+IFSC: HDFC0001042
+Account Type: Savings
+
+Customer Name: Rajesh Kumar Sharma
+Maximum Amount: ₹ 25,000
+Frequency: Monthly
+Debit Type: Fixed Amount
+Sponsor Bank Code: HDFC000001
+Utility Code: NACH000000000001
+Period: From 01/01/2024 to 31/12/2040
